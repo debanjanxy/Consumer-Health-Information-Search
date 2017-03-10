@@ -1,0 +1,28 @@
+chis.exe is an executable code of the original python code for the task
+Python 2.7 is used as programming language to create this software. So 
+Python 2.7 must be installed in the computer. Following packages also must
+be installed in the computer:
+  -> nltk
+  -> xlrd
+  -> xlwt
+  -> wikipedia
+  -> re
+  -> stemming.porter2
+  -> scipy
+  -> numpy
+  -> sklearn
+All the components of the above mentioned packages must be installed in 
+order to run the software. There is only one folder containing various excel
+files and text files. In this folder 'chis.exe' is also present. After running
+the program the result will be saved as an excel file called 'FINAL.xls'.  
+
+Now, run the program by double clicking on the 'chis.exe' file. User has to
+give input. The inputs are:
+    ->'ecig' for the query e-cigarettes
+    ->'mmr_vaccine' for the query MMR vaccine lead to autism .
+    ->'hrt' for the query Women should take HRT post menopause.
+    ->'skincancer' for the query does sun exposure cause skin cancer.
+    ->'vitamin' for the query Vitamin C common cold.
+    
+The output will be saved as an excel file named 'RESULT.xls' in the same folder
+where the chis.exe is present. 
